@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../Uy ishi/2 oy/uy ishi 4"
+		},
+		{
+			"path": "../../../Practice/flexbox2"
+		},
+		{
+			"path": "../5 dars"
+		},
+		{
+			"path": "../../../Practice/5"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "flexbox2"
+	}
+}
